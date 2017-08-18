@@ -1,4 +1,7 @@
-In this repository we provide the source code that computes the hepatoxicity for certain compounds based on the......
+In this repository we provide the source code that computes the hepatoxicity for certain compounds based on the method described in:
+
+Carbonell, P., Lopez, O., Amberg, A., Pastor, M., and Sanz, F. (2017) Hepatotoxicity prediction by systems biology modeling of disturbed metabolic pathways using gene expression data. ALTEX, 34, 219–234. [doi:10.14573/altex.1602071](doi:10.14573/altex.1602071)
+
 
 We provide a script to compute the FVA analysis of the human hepatocytes based on the Recon 2 metabolic models using the COBRA package in [recon2_fva](recon2_fva)
 
