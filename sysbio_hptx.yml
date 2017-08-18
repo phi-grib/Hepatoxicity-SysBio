@@ -1,0 +1,133 @@
+name: sysbio_hptx
+channels:
+- rdkit
+- defaults
+dependencies:
+- backports=1.0=py27_0
+- backports_abc=0.5=py27_0
+- bleach=1.5.0=py27_0
+- bzip2=1.0.6=3
+- cairo=1.14.8=0
+- configparser=3.5.0=py27_0
+- cycler=0.10.0=py27_0
+- dbus=1.10.20=0
+- decorator=4.1.2=py27_0
+- entrypoints=0.2.3=py27_0
+- enum34=1.1.6=py27_0
+- expat=2.1.0=0
+- fontconfig=2.12.1=3
+- freetype=2.5.5=2
+- functools32=3.2.3.2=py27_0
+- get_terminal_size=1.0.0=py27_0
+- glib=2.50.2=1
+- gst-plugins-base=1.8.0=0
+- gstreamer=1.8.0=0
+- html5lib=0.9999999=py27_0
+- icu=54.1=0
+- ipykernel=4.6.1=py27_0
+- ipython=5.3.0=py27_0
+- ipython_genutils=0.2.0=py27_0
+- ipywidgets=6.0.0=py27_0
+- jbig=2.1=0
+- jinja2=2.9.6=py27_0
+- jpeg=9b=0
+- jsonschema=2.6.0=py27_0
+- jupyter=1.0.0=py27_3
+- jupyter_client=5.1.0=py27_0
+- jupyter_console=5.1.0=py27_0
+- jupyter_core=4.3.0=py27_0
+- libffi=3.2.1=1
+- libgcc=5.2.0=0
+- libgfortran=3.0.0=1
+- libiconv=1.14=0
+- libpng=1.6.27=0
+- libsodium=1.0.10=0
+- libtiff=4.0.6=3
+- libxcb=1.12=1
+- libxml2=2.9.4=0
+- libxslt=1.1.29=0
+- lxml=3.8.0=py27_0
+- markupsafe=0.23=py27_2
+- matplotlib=2.0.2=np111py27_0
+- mistune=0.7.4=py27_0
+- mkl=2017.0.3=0
+- nbconvert=5.2.1=py27_0
+- nbformat=4.3.0=py27_0
+- notebook=5.0.0=py27_0
+- numpy=1.11.3=py27_0
+- olefile=0.44=py27_0
+- openssl=1.0.2l=0
+- pandas=0.20.1=np111py27_0
+- pandocfilters=1.4.1=py27_0
+- path.py=10.3.1=py27_0
+- pathlib2=2.3.0=py27_0
+- pcre=8.39=1
+- pexpect=4.2.1=py27_0
+- pickleshare=0.7.4=py27_0
+- pillow=4.2.1=py27_0
+- pip=9.0.1=py27_1
+- pixman=0.34.0=0
+- prompt_toolkit=1.0.14=py27_0
+- ptyprocess=0.5.2=py27_0
+- pycairo=1.10.0=py27_0
+- pygments=2.2.0=py27_0
+- pyparsing=2.2.0=py27_0
+- pyqt=5.6.0=py27_2
+- python=2.7.13=0
+- python-dateutil=2.6.1=py27_0
+- pytz=2017.2=py27_0
+- pyzmq=16.0.2=py27_0
+- qt=5.6.2=5
+- qtconsole=4.3.1=py27_0
+- readline=6.2=2
+- scandir=1.5=py27_0
+- scipy=0.19.0=np111py27_0
+- setuptools=27.2.0=py27_0
+- simplegeneric=0.8.1=py27_1
+- singledispatch=3.4.0.3=py27_0
+- sip=4.18=py27_0
+- six=1.10.0=py27_0
+- sqlite=3.13.0=0
+- ssl_match_hostname=3.4.0.2=py27_1
+- subprocess32=3.2.7=py27_0
+- terminado=0.6=py27_0
+- testpath=0.3.1=py27_0
+- tk=8.5.18=0
+- tornado=4.5.1=py27_0
+- traitlets=4.3.2=py27_0
+- wcwidth=0.1.7=py27_0
+- wheel=0.29.0=py27_0
+- widgetsnbextension=2.0.0=py27_0
+- xz=5.2.2=1
+- zeromq=4.1.5=0
+- zlib=1.2.8=3
+- boost=1.56.0=py27_3
+- rdkit=2017.03.3=np111py27_1
+- pip:
+  - astroid==1.5.3
+  - backports-abc==0.5
+  - backports.functools-lru-cache==1.4
+  - backports.shutil-get-terminal-size==1.0.0
+  - backports.ssl-match-hostname==3.4.0.2
+  - cobra==0.5.11
+  - future==0.16.0
+  - ipython-genutils==0.2.0
+  - isort==4.2.15
+  - jupyter-client==5.1.0
+  - jupyter-console==5.1.0
+  - jupyter-core==4.3.0
+  - lazy-object-proxy==1.3.1
+  - mccabe==0.6.1
+  - mpmath==0.19
+  - optlang==1.2.1
+  - prompt-toolkit==1.0.14
+  - pylint==1.7.2
+  - python-libsbml==5.15.0
+  - ruamel.ordereddict==0.4.13
+  - ruamel.yaml==0.14.12
+  - swiglpk==1.4.3
+  - sympy==1.1.1
+  - tabulate==0.7.7
+  - wrapt==1.10.11
+prefix: /home/user/anaconda2/envs/sysbio_hptx
+
