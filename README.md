@@ -8,12 +8,13 @@ All the python scripts and the jupyter notebook can be run on a conda environmen
 
 The conda environment can be created from them yml file provided
 
-'''bash
+```bash
 conda env create --name sysbio_hptx -f sysbio_hptx.yml
-'''
+```
 once the environment is created can be activated in Linux
 
-'''bash
+```bash
 source activate sysbio_hptx
-'''
+```
+
 This environment has been tested in Linux64 platforms
