@@ -5,7 +5,7 @@ Carbonell, P., Lopez, O., Amberg, A., Pastor, M., and Sanz, F. (2017) Hepatotoxi
 
 We provide a script to compute the FVA analysis of the human hepatocytes based on the Recon 2 metabolic models using the COBRA package in [recon2_fva](recon2_fva)
 
-We provide a smaple jupyter notebook that performs the hepatoxocity calculations for 3 statins in [statins_notebook](notebook)
+We provide a sample jupyter notebook that performs the hepatoxocity calculations for 3 statins in [statins_notebook](notebook)
 
 All the python scripts and the jupyter notebook can be run on a conda environment that specifies completely the dependencies needed.
 
